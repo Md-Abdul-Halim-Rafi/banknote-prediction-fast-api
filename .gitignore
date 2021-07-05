@@ -1,4 +1,5 @@
 .idea
+.deta
 .ipynb_checkpoints
 .mypy_cache
 .vscode
